@@ -1,4 +1,3 @@
 # next-crud-app
 
-this app create an Redux, Next, Node and Mysql.
-it is only a CRUD APPLICATION.
+we have built in Frontend (Next JS), Backend (Node JS) and Database (MYSQL) and also using REDUX in this application
